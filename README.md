@@ -10,7 +10,7 @@ Features
 - Career development resources
 
 Technologies Used
-- React
+- Nextjs
 - Framer Motion
 - Lucide React
 - Tailwind CSS
